@@ -1,5 +1,0 @@
-group :chef-server do
-  cookbook 'chef-ingredient', '>= 0.18.0'
-end
-
-
